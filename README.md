@@ -7,7 +7,7 @@ Revenue prediction in e-commerce
 
 Multi-criteria robot selection for logistics operations
 
-🔹 1. Revenue Prediction – SweetAroma (E-commerce)
+🔹 1. **Revenue Prediction – SweetAroma (E-commerce)**
 
 Objective:
 Analyse how customer characteristics and on-site behaviour influence revenue and build a predictive model to estimate spending.
@@ -40,7 +40,7 @@ Supports targeted marketing strategies
 
 Enables revenue forecasting
 
-🔹 2. Robot Selection – AutonomousShipment (MCDA)
+🔹 2. **Robot Selection – AutonomousShipment (MCDA)**
 
 Objective:
 Select the most suitable autonomous delivery robot among seven prototypes under multiple conflicting criteria.
@@ -74,7 +74,7 @@ Transparent ranking of alternatives
 
 Evidence-based technology selection
 
-🛠 Techniques & Skills
+**Techniques & Skills**
 
 Predictive Modelling
 
