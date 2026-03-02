@@ -1,5 +1,5 @@
-Business Analytics & Decision Science
-Predictive Modelling & Multi-Criteria Decision Analysis
+**Business Analytics & Decision Science
+Predictive Modelling & Multi-Criteria Decision Analysis**
 
 This project applies business analytics and decision science methods to solve two strategic business problems:
 
@@ -88,8 +88,3 @@ Multi-Criteria Optimisation
 
 Analytical Business Reporting
 
-📄 Report
-
-The full report is available in this repository:
-
-Business_Analytics_and_Decision_Science_Report.pdf
